@@ -10,17 +10,7 @@ Users will see the current date and time at the top of the page. They can input 
 
 The app looks like this:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+    
+![Screenshot of workday scheduler webpage](assets/images/Screenshot%202022-11-21%20090834.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-
-and can be found live on the web here:   ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+and can be found live on the web here: https://eawiggans.github.io/workday-scheduler/  ```
